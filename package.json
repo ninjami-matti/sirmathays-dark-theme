@@ -1,0 +1,25 @@
+{
+    "name": "sirmathays-dark-theme",
+    "publisher": "SirMathays",
+    "displayName": "SirMathays's Dark Theme",
+    "description": "The dark theme SirMathays uses.",
+    "repository": {
+        "url": "https://github.com/ninjami-matti/sirmathays-extension-pack"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "SM Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SM Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
