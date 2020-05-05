@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "sirmathays-dark-theme" extension will be documented in this file.
+## 1.0.1
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+A bit more text and a proper reference to Sunburst package added to README.
 
-## [Unreleased]
+## 1.0.0
 
-- Initial release
+Release of the color theme.
