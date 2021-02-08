@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.1.0
+
+Added colorization to the arrow in php short closures.
+
 ## 1.0.2
 
 Slight adjustments to the text in README.
