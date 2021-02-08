@@ -376,6 +376,13 @@
 			}
 		},
 		{
+			"scope": "meta.function.closure.php punctuation.definition.arrow.php",
+			"settings": {
+				"foreground": "#99CF50",
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"scope": "keyword - keyword.operator",
 			"settings": {
 				"fontStyle": "italic"
